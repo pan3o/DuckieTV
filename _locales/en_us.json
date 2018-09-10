@@ -1,6 +1,6 @@
 {
-    "LOCALE": "American English",
-    "ABOUT/bugs/hdr": "Bugs",
+    "LOCALE": "Polish",
+    "ABOUT/bugs/hdr": "Błędy",
     "ABOUT/bugs/p1": "If you find a bug, please report it on ",
     "ABOUT/bugs/p2": " So that I can keep track of it",
     "ABOUT/contributing/hdr": "Contributing",
@@ -27,7 +27,7 @@
     "ABOUT/dtvlinks-github/lbl": "Website:",
     "ABOUT/dtvlinks/hdr": "DuckieTV links",
     "ABOUT/help-changelog/link": "Changelog",
-    "ABOUT/help/hdr": "Help",
+    "ABOUT/help/hdr": "Pomoc",
     "ABOUT/help/p1": "For help and discussion, please visit ",
     "ABOUT/help/p2": "For a list of the latest changes, check the ",
     "ABOUT/optInTracking-id/hdr": "Unique tracking id:",
